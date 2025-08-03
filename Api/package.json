@@ -1,0 +1,10 @@
+{
+  "name": "textpro-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
